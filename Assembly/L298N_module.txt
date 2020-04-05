@@ -1,0 +1,17 @@
+Partlist exported from C:/Users/YM/Documents/EAGLE/projects/Motor Driver/L298n Module/L298N_module.sch at 27-01-2020 15:21
+
+Qty Value  Device           Package      Parts                                                      Description                          MF MPN   OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+1          LED5MM           LED5MM       PWR                                                        LED                                                                93         B          
+4          LEDCHIP-LED0805  CHIP-LED0805 LED_A1, LED_A2, LED_B1, LED_B2                             LED                                                                68         L          
+4          PINHD-1X2        1X02         ENB_A, ENB_B, MTR_A, MTR_B                                 PIN HEADER                                                         98         B          
+1          PINHD-1X3        1X03         PWR_SGNS                                                   PIN HEADER                                                         92         J          
+1          PINHD-1X4        1X04         I/P_SGNS                                                   PIN HEADER                                                         91         E          
+2   100nf  C-EU025-025X050  C025-025X050 C_VCC, C_VS                                                CAPACITOR, European symbol                                         65         C          
+2   10k    R-EU_0204/7      0204/7       MTR_RA, MTR_RB                                             RESISTOR, European symbol                                          79         R          
+2   10m    R-US_0204/7      0204/7       SR_A, SR_B                                                 RESISTOR, American symbol                                          48         R          
+2   10uf   CPOL-EU139CLL-2R 139CLL-2R    PC_I/P, PC_O/P                                             POLARIZED CAPACITOR, European symbol                               0          C          
+1   15m    R-US_0204/7      0204/7       I/P_SR                                                     RESISTOR, American symbol                                          48         R          
+1   4k     R-EU_0204/7      0204/7       PWR_R                                                      RESISTOR, European symbol                                          79         R          
+1   7805DT 7805DT           TO252        IC2                                                        Positive VOLTAGE REGULATOR                                         0          J          
+8   GF1    GF1              SMA-DO214AC  GND_D1, GND_D2, GND_D3, GND_D4, VS_D1, VS_D2, VS_D3, VS_D4 DIODE                                                              2          B          
+1   L298   L298             MULTIWATT-15 IC1                                                        DUAL FULL-BRIDGE DRIVER                 L298N 1589425    32M1527   11         X          
