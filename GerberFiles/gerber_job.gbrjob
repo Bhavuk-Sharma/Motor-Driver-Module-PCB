@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-01-27T09:51:26Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "L298N_module"
+        },
+        "Owner": "Bhavuk Sharma <bhavuk.ym@gmail.com>",
+        "Size": {
+            "X": 77.45,
+            "Y": 56.82
+        }
+    }
+}
